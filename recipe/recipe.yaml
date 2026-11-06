@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.25.0"
+  version: "0.26.0"
 
 package:
   name: zapros
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/z/zapros/zapros-${{ version }}.tar.gz
-  sha256: fba67d9fbd3a5f52964046dcea48c073d3e12bad459a49553d85827f399c4e8e
+  sha256: e17b7fd056004d5df4738c7790e981f93299a2fad32c05af8e4ee7857d5f50b8
 
 build:
   number: 0
